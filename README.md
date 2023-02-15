@@ -1,6 +1,6 @@
 # Keras TF 2.0 - Classification Project
 
-Let's explore a classification task with Keras API for TF 2.0
+Classification model to differentiate benign and malignant cancer cells.
 
 ## The Data
 
